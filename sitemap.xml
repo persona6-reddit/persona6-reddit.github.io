@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://persona6-reddit.github.io/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Reddit r/Persona6</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T09:15:00Z</news:publication_date>
+      <news:title>Persona 6 teaser breakdown — Yokohama theory, green color symbolism, WHO ARE YOU, and Nilfer mascot leak explained</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://persona6-reddit.github.io/post-image.png</image:loc>
+      <image:title>Persona 6 teaser breakdown collage — neon green logo, graveyard, newspaper face, blue butterfly</image:title>
+      <image:caption>Persona 6 officially announced at Xbox Games Showcase June 2026 — frame-by-frame teaser analysis</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://persona6-reddit.github.io/banner.png</image:loc>
+      <image:title>r/Persona6 subreddit banner — dark Yokohama cityscape with neon green Persona 6 theme</image:title>
+      <image:caption>r/Persona6 community banner</image:caption>
+    </image:image>
+  </url>
+</urlset>
